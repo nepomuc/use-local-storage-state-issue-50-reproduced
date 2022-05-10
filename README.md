@@ -1,4 +1,4 @@
-# Just for reproducing an issue #50 of astoilkov/use-local-storage-state
+# Just for reproducing issue #50 of astoilkov/use-local-storage-state
 
 1. `npm install`
 2. `npm run dev`
